@@ -1,2 +1,28 @@
-Learning Path:
-https://learn.microsoft.com/plans/5dj6bqt2wjmwz5?sharingId=EDAE4CDD4795E21E&wt.mc_id=studentamb_573147
+Welcome! 👋
+
+This repository documents my learning journey through the Microsoft Azure AI Fundamentals learning path on Microsoft Learn. 
+My goal is to build a strong understanding of Artificial Intelligence (AI) concepts and explore how Microsoft Azure provides powerful AI services for developing intelligent applications.
+
+
+Microsoft Learn Learning Plan:
+https://learn.microsoft.com/plans/01zof1t74jqrn2?sharingId=EDAE4CDD4795E21E&wt.mc_id=studentamb_573147
+
+📖 This repository includes
+
+💡 Key AI concepts and important takeaways
+🤖 Introduction to Machine Learning, Computer Vision, Natural Language Processing, and Generative AI
+🔗 Useful Microsoft documentation and additional learning resources for AI-900 preparation
+
+The notes are designed to serve as a quick reference for students, beginners, and anyone interested in learning the fundamentals of Artificial Intelligence using Microsoft Azure.
+
+🎯 Learning Objectives
+Through this learning path, I aim to:
+* Understand the fundamentals of Artificial Intelligence and Responsible AI.
+* Learn the basics of Machine Learning and Azure Machine Learning.
+* Explore Azure AI services for Vision, Speech, Language, and Document Intelligence.
+* Understand Generative AI concepts and Azure AI Foundry capabilities.
+* Gain practical knowledge of Microsoft's AI ecosystem.
+* Build a strong foundation for the **AI-900: Microsoft Azure AI Fundamentals** certification.
+
+
+Feel free to explore the modules, learn along with me, and share your suggestions or feedback!
