@@ -1,0 +1,33 @@
+Welcome! 👋
+
+This repository documents my learning journey through the Microsoft Azure Data Fundamentals learning path on Microsoft Learn.
+My goal is to understand the fundamental concepts of data, databases, data storage, and analytics in the cloud while creating concise notes that can help other learners preparing for the DP-900: Microsoft Azure Data Fundamentals certification.
+
+Microsoft Learn Learning Path:
+https://learn.microsoft.com/plans/25j1tgtkdep7op?sharingId=EDAE4CDD4795E21E&wt.mc_id=studentamb_573147
+
+This Learning Path contains:
+💡 Key concepts and important data fundamentals
+📚 Module-wise summaries and notes
+🗄️ Concepts related to relational and non-relational data
+☁️ Azure data services and storage solutions
+📊 Data analytics, real-time analytics, and visualization concepts
+🔗 Useful Microsoft documentation and learning resources for DP-900 preparation
+
+The modules are intended to provide a helpful reference for students, beginners, and anyone interested in exploring data concepts, Azure data services, databases, and cloud analytics.
+
+🎯 Learning Objectives
+
+Through this learning path, I aim to:
+* Understand fundamental data concepts and data workloads
+* Learn the differences between structured, semi-structured, and unstructured data
+* Understand relational database concepts and SQL fundamentals
+* Explore Azure relational data services, including Azure SQL
+* Understand non-relational data and Azure storage services
+* Explore Azure Blob Storage, Azure Files, Azure Table Storage, and Azure Cosmos DB
+* Learn the fundamentals of data ingestion, processing, and analytical workloads
+* Understand batch and real-time data analytics
+* Explore large-scale analytics services such as Azure Databricks and Microsoft Fabric
+* Build a strong foundation for the DP-900: Microsoft Azure Data Fundamentals certification
+
+Feel free to explore the modules, learn along with me, and share your suggestions or feedback! 🚀
