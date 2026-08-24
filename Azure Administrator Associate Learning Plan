@@ -1,0 +1,32 @@
+Welcome! 👋
+
+This repository documents my learning journey through the Azure Administrator learning plan on Microsoft Learn.
+My goal is to build a strong understanding of Azure administration and learn how to manage, monitor, secure, and maintain cloud resources and services using Microsoft Azure.
+
+Microsoft Learn Learning Plan:
+https://learn.microsoft.com/plans/67j8t7tzeenyd0?sharingId=EDAE4CDD4795E21E&wt.mc_id=studentamb_573147
+
+📖 This repository includes:
+💡 Key Azure administration concepts and important takeaways
+☁️ Introduction to Azure infrastructure, resources, and resource management
+🖥️ Management of Azure virtual machines, storage, and networking
+🔐 Identity, security, and access management in Azure
+📊 Monitoring, backup, and maintenance of Azure resources
+⚙️ Azure governance, policies, and resource management
+🔗 Useful Microsoft documentation and additional learning resources for Azure administration
+
+The notes are designed to serve as a quick reference for students, beginners, and anyone interested in learning **cloud administration and Azure infrastructure management**.
+
+🎯 Learning Objectives
+Through this learning plan, I aim to:
+* Understand the fundamentals of **Azure administration and cloud computing**.
+* Learn how to manage Azure subscriptions, resources, and resource groups.
+* Explore Azure virtual machines, storage accounts, and networking services.
+* Understand **Microsoft Entra ID**, authentication, authorization, and access management.
+* Learn how to implement security, governance, and Azure policies.
+* Explore monitoring, backup, and recovery of Azure resources.
+* Gain practical knowledge of managing and maintaining Azure infrastructure.
+* Develop the skills required for the **AZ-104: Microsoft Azure Administrator** certification.
+* Build a strong foundation in **Microsoft Azure cloud administration**.
+
+Feel free to explore the modules, learn along with me, and share your suggestions or feedback!
