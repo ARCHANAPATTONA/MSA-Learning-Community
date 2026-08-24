@@ -1,0 +1,32 @@
+Welcome! 👋
+
+This repository documents my learning journey through the Microsoft 365 Endpoint Administrator Associate learning plan on Microsoft Learn.
+My goal is to build a strong understanding of endpoint management and explore how Microsoft 365 and Microsoft Intune can be used to manage, secure, and support devices and applications in modern organizations.
+
+Microsoft Learn Learning Plan:
+https://learn.microsoft.com/plans/n5w0tjt8ndxzg5?sharingId=EDAE4CDD4795E21E&wt.mc_id=studentamb_573147
+
+📖 This repository includes:
+💡 Key endpoint management concepts and important takeaways
+💻 Introduction to modern device management and Microsoft Intune
+🔐 Device security, compliance, and identity management
+📱 Managing Windows devices, applications, policies, and configurations
+☁️ Microsoft Entra ID and cloud-based endpoint management
+🔗 Useful Microsoft documentation and additional learning resources for certification preparation
+
+The notes are designed to serve as a quick reference for students, beginners, and anyone interested in learning **Microsoft 365 endpoint management and modern device administration**.
+
+🎯 Learning Objectives
+
+Through this learning plan, I aim to:
+* Understand the fundamentals of endpoint management and Microsoft 365 administration.
+* Learn how to manage devices using Microsoft Intune.
+* Explore Windows device enrollment, configuration, and management.
+* Understand application deployment and endpoint configuration policies.
+* Learn about device security, compliance, and access management.
+* Explore Microsoft Entra ID and its role in endpoint management.
+* Understand how to protect organizational devices and data using Microsoft security capabilities.
+* Gain practical knowledge of modern endpoint management in Microsoft 365.
+* Build a strong foundation for the **MD-102: Microsoft 365 Endpoint Administrator** certification.
+
+Feel free to explore the modules, learn along with me, and share your suggestions or feedback!
